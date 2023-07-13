@@ -18,8 +18,7 @@ body {
  
    border-radius: 7px;
  }
- 
- /* BEGIN (write your solution here) */
+
  .form-input {
    display: block;
    width: 100%;
@@ -40,8 +39,6 @@ body {
    height: 200px;
    resize: none;
  }
- 
- /* END */
  
  .btn {
    padding: 15px 30px;
